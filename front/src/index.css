@@ -1,10 +1,16 @@
-body {
-  margin: 0;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/* body{
+  background-image: url('/public/images/wave-rightdown.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+} */
 
+img .icon{
+  width: 3px;
+  height: 3px;
+  margin: 0 auto;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
